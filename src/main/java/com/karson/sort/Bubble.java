@@ -8,6 +8,7 @@ public class Bubble {
         sort(arr);
         System.out.println(Arrays.toString(arr));
         System.out.println("hot-fix-first-commit");
+        System.out.println("master-text");
     }
     //快速排序
     public static void sort(Comparable[] arr){
