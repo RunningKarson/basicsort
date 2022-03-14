@@ -10,6 +10,7 @@ public class Bubble {
         System.out.println("hot-fix-first-commit");
         System.out.println("master-text");
         System.out.println("push");
+        System.out.println("push2");
     }
     //快速排序
     public static void sort(Comparable[] arr){
