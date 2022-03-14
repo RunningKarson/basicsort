@@ -11,6 +11,7 @@ public class Bubble {
         System.out.println("master-text");
         System.out.println("push");
         System.out.println("push2");
+        System.out.println("gitee");
     }
     //快速排序
     public static void sort(Comparable[] arr){
