@@ -7,6 +7,7 @@ public class Bubble {
         Integer arr[] = {9,1,2,5,7,4,8,6,3,5};
         sort(arr);
         System.out.println(Arrays.toString(arr));
+        System.out.println("hot-fix-first-commit");
     }
     //快速排序
     public static void sort(Comparable[] arr){
